@@ -1,5 +1,5 @@
 - 👋 Buenas, soy David Jiménez Villajos
-- 👀 Amante de las ciencias y la tecnología, por ello sigo formándome actualmente en el sector de la programación, aspiro a hacer grandes y diversos proyectos.
+- 👀 Un joven amante de las ciencias y la tecnología, por ello estoy trabajando actualmente en el sector de la programación.
 - 📫 Podeis contactar conmigo a traves de:
 - 📩Email: david11jv@gmail.com
 - 📋Linkdin: https://www.linkedin.com/in/david-linkdin/
