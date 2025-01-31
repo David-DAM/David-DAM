@@ -1,9 +1,9 @@
-<h2 align="center">Buenas a todos!👋 <br>⭐Soy David Jiménez Villajos y aquí encontraras todos mis proyectos⭐</h2>
+<h2 align="center">Buenas a todos👋 <br>⭐Soy David Jiménez Villajos y aquí encontraras todos mis proyectos⭐</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DAVID-DAM&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height="200" src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif?cid=790b76112ah10w5kqpytrwe6bz3inf7qz8c0l133gasfs724&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -13,9 +13,9 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="30" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
