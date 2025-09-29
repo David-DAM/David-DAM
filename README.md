@@ -1,6 +1,6 @@
 # ¡Buenas! Soy David Jiménez Villajos 👋
 
-**Desarrollador Backend**, divulgador tecnológico y fundador de **DavinchiCoder**, mi academia donde ayudo a desarrolladores a crecer y conseguir los empleos que desean en grandes empresas.
+**Desarrollador Backend** y divulgador donde ayudo a desarrolladores a crecer profesionalmente.
 
 Mi enfoque está en:
 
@@ -11,14 +11,6 @@ Mi enfoque está en:
 - **Bases de datos SQL y NoSQL**  
 - **Cloud computing y AWS**  
 
-## 🚀 Qué hago
-
-- Desarrollo de **software personalizado** y **SaaS**  
-- Desarrollo de **aplicaciones en la nube**  
-- Consultoría de **TI y DevOps**  
-- Formación y mentoring para desarrolladores  
-- Creación de **cursos online** y contenido educativo en mi academia  
-
 ## 📚 Proyectos destacados
 
 Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prácticas de desarrollo:
@@ -27,7 +19,7 @@ Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prác
 - Integración de **monitorización con Grafana, Prometheus y ELK stack**  
 - Microservicios en nubes como **AWS**  
 
-> La mayoría de mis proyectos tienen un enfoque educativo, explicando cómo se construyen paso a paso, igual que en mi academia.
+> La mayoría de mis proyectos tienen un enfoque educativo, explicando cómo se construyen paso a paso.
 
 ## 🛠 Tecnologías que uso
 
