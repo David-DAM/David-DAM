@@ -1,23 +1,29 @@
 # ¡Buenas! Soy David Jiménez Villajos 👋
 
-**Desarrollador Backend** y divulgador donde ayudo a desarrolladores a crecer profesionalmente.
+**Software Engineer** enfocado en construir proyectos reales mientras sigo aprendiendo y compartiendo lo que voy descubriendo en el camino.
+
+Me gusta aprender de forma práctica: construir, romper, mejorar y volver a construir.
 
 Mi enfoque está en:
 
-- **Java moderno y Spring Boot**  
-- **Microservicios y arquitectura limpia**  
-- **DevOps y CI/CD**  
-- **Testing avanzado**  
-- **Bases de datos SQL y NoSQL**  
-- **Cloud computing y AWS**  
+- Java moderno y Spring Boot
+- Kotlin aplicado a sistemas backend
+- Arquitectura de software (hexagonal, microservicios, DDD)
+- Sistemas distribuidos y diseño de APIs
+- DevOps, CI/CD y automatización
+- Cloud (AWS) y sistemas escalables
+- Bases de datos SQL y NoSQL
+- Event-driven systems y mensajería (Kafka, etc.)
 
-## 📚 Proyectos destacados
+## Proyectos destacados
 
-Aquí comparto proyectos prácticos que aplican patrones modernos y buenas prácticas de desarrollo:
+Aquí comparto proyectos donde exploro conceptos reales de ingeniería de software:
 
-- Aplicaciones **Java/Spring Boot** con arquitectura hexagonal  
-- Integración de **monitorización con Grafana, Prometheus y ELK stack**  
-- Microservicios en nubes como **AWS**  
+- Sistemas backend con Java / Kotlin + Spring Boot
+- Arquitecturas limpias y escalables (hexagonal, DDD)
+- Sistemas distribuidos con eventos y consistencia
+- Integraciones con AWS, Docker y Kubernetes
+- Experimentos con observabilidad (logs, métricas, tracing)
 
 > La mayoría de mis proyectos tienen un enfoque educativo, explicando cómo se construyen paso a paso.
 
