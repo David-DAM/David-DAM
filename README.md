@@ -25,8 +25,6 @@ Aquí comparto proyectos donde exploro conceptos reales de ingeniería de softwa
 - Integraciones con AWS, Docker y Kubernetes
 - Experimentos con observabilidad (logs, métricas, tracing)
 
-> La mayoría de mis proyectos tienen un enfoque educativo, explicando cómo se construyen paso a paso.
-
 ## 🛠 Tecnologías que uso
 
 <div align="center">
