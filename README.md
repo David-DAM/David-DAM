@@ -1,6 +1,6 @@
 # Hi! I'm David Jiménez Villajos 👋
 
-**Software Engineer**focused on building real-world projects while continuing to learn and share what I discover along the way.
+**Software Engineer** focused on building real-world projects while continuing to learn and share what I discover along the way.
 
 I enjoy learning by doing: building, breaking, improving, and rebuilding.
 
