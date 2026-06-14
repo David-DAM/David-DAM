@@ -1,31 +1,31 @@
-# ¡Buenas! Soy David Jiménez Villajos 👋
+# Hi! I'm David Jiménez Villajos 👋
 
-**Software Engineer** enfocado en construir proyectos reales mientras sigo aprendiendo y compartiendo lo que voy descubriendo en el camino.
+**Software Engineer**focused on building real-world projects while continuing to learn and share what I discover along the way.
 
-Me gusta aprender de forma práctica: construir, romper, mejorar y volver a construir.
+I enjoy learning by doing: building, breaking, improving, and rebuilding.
 
-Mi enfoque está en:
+My focus is on:
 
-- Java moderno y Spring Boot
-- Kotlin aplicado a sistemas backend
-- Arquitectura de software (hexagonal, microservicios, DDD)
-- Sistemas distribuidos y diseño de APIs
-- DevOps, CI/CD y automatización
-- Cloud (AWS) y sistemas escalables
-- Bases de datos SQL y NoSQL
-- Event-driven systems y mensajería (Kafka, etc.)
+- Modern Java and Spring Boot
+- Kotlin applied to backend systems
+- Software architecture (hexagonal, microservices, DDD)
+- Distributed systems and API design
+- DevOps, CI/CD, and automation
+- Cloud (AWS) and scalable systems
+- SQL and NoSQL databases
+- Event-driven systems and messaging (Kafka, etc.)
 
-## Proyectos destacados
+## Featured Projects
 
-Aquí comparto proyectos donde exploro conceptos reales de ingeniería de software:
+Here I share projects where I explore real-world software engineering concepts:
 
-- Sistemas backend con Java / Kotlin + Spring Boot
-- Arquitecturas limpias y escalables (hexagonal, DDD)
-- Sistemas distribuidos con eventos y consistencia
-- Integraciones con AWS, Docker y Kubernetes
-- Experimentos con observabilidad (logs, métricas, tracing)
+- Backend systems with Java/Kotlin + Spring Boot
+- Clean and scalable architectures (hexagonal, DDD)
+- Distributed systems with events and consistency
+- Integrations with AWS, Docker, and Kubernetes
+- Experiments with observability (logs, metrics, tracing)
 
-## 🛠 Tecnologías que uso
+## Tecnologías que uso
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="30" alt="go logo" />
@@ -42,7 +42,7 @@ Aquí comparto proyectos donde exploro conceptos reales de ingeniería de softwa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
 </div>
 
-## 📺 Encuéntrame en
+## Find me on
 
 <div align="center">
   <a href="https://www.youtube.com/@davinchicoder" target="_blank">
