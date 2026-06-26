@@ -25,7 +25,7 @@ Here I share projects where I explore real-world software engineering concepts:
 - Integrations with AWS, Docker, and Kubernetes
 - Experiments with observability (logs, metrics, tracing)
 
-## Tecnologías que uso
+## Technologies I use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="30" alt="go logo" />
